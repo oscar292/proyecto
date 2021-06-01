@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerSecond
+  - PlayerT
+  - PlayerQ
+  - PlayerR
+  - Piece
+  - Piece2
+  - Undefined
+  - PlayerY
+  - PlayerX
+  - B1
+  - B2
+  - B3
+  - B4
+  - B5
+  - B6
+  - B7
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4175700545
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Structure
+    uniqueID: 4232143881
+    locked: 0
+  - name: Foreground
+    uniqueID: 1382071593
+    locked: 0
+  - name: Player
+    uniqueID: 1236522053
+    locked: 0
+  - name: anuncio
+    uniqueID: 2522325587
+    locked: 0
+  - name: encima
+    uniqueID: 2750434099
+    locked: 0
